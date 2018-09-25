@@ -1,11 +1,16 @@
 _repo: Inaugural-Presidential-Address_57953
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Trump, Donald
     gutenberg_agent_id: '49704'
     url: http://www.gutenberg.org/2009/agents/49704
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57953#Inaugural-Presidential-Address
 gutenberg_issued: '2018-09-22'
 gutenberg_type: Text
 identifiers:
